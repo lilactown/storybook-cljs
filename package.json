@@ -19,7 +19,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
     "@storybook/addons": "^5.3.18",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.1.0",
     "shadow-cljs": "^2.9.2"
   }
